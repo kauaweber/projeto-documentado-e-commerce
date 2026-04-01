@@ -53,10 +53,10 @@ mysql -u root -p ecommerce < arquivo.sql
 
 ### Passo 4: Executar o projeto
 
-# Abra o projeto na IDE (IntelliJ ou Eclipse) e execute a aplicação
+ Abra o projeto na IDE (IntelliJ ou Eclipse) e execute a aplicação
 
 ---
 
 ### Passo 5: Utilizar o sistema
 
-# Acesse o sistema, faça login e utilize as funcionalidades
+ Acesse o sistema, faça login e utilize as funcionalidades
