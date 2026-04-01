@@ -1,6 +1,6 @@
 # Projeto Documentado E-commerce
 
-## 📑 Índice
+##  Índice
 - [Descrição](#descrição)
 - [Instalação](#instalação)
 - [Como usar](#como-usar)
