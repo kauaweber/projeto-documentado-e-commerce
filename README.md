@@ -28,3 +28,27 @@ O sistema permite o gerenciamento de produtos, usuários e operações comuns de
 ```bash
 git clone https://github.com/kauaweber/projeto-documentado-e-commerce.git
 cd projeto-documentado-e-commerce
+
+---
+
+### Passo 2: Criar o banco de dados
+```bash
+CREATE DATABASE ecommerce;
+
+---
+
+### Passo 3: Importar o banco de dados
+```bash
+mysql -u root -p ecommerce < arquivo.sql
+
+---
+
+### Passo 4: Executar o projeto
+```bash
+# Abra o projeto na IDE (IntelliJ ou Eclipse) e execute a aplicação
+
+---
+
+### Passo 5: Utilizar o sistema
+```bash
+# Acesse o sistema, faça login e utilize as funcionalidades
