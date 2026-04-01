@@ -3,7 +3,7 @@
 ## 📑 Índice
 - [Descrição](#descrição)
 - [Instalação](#instalação)
-- [Instruções](#Instruções de Uso)
+- [Como usar](#como-usar)
 - [Tecnologias](#tecnologias)
 - [Licença](#licença)
 
