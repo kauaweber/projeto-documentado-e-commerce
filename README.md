@@ -1,7 +1,6 @@
 # Projeto Documentado E-commerce
 
-
-## 📌 Descrição
+## Descrição
 
 Este projeto é um sistema de e-commerce desenvolvido com o objetivo de praticar e demonstrar conceitos de desenvolvimento de software, incluindo organização de código, documentação e funcionalidades básicas de uma loja virtual.
 
@@ -9,7 +8,7 @@ O sistema permite o gerenciamento de produtos, usuários e operações comuns de
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java
 - MySQL
@@ -17,3 +16,11 @@ O sistema permite o gerenciamento de produtos, usuários e operações comuns de
 - Git e GitHub
 
 ---
+
+## Instruções de Uso
+
+### Pré-requisitos
+- Java instalado
+- MySQL instalado
+- IDE (IntelliJ ou Eclipse)
+
