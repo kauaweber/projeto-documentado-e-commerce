@@ -24,3 +24,7 @@ O sistema permite o gerenciamento de produtos, usuários e operações comuns de
 - MySQL instalado
 - IDE (IntelliJ ou Eclipse)
 
+### Passo 1: Clonar o repositório
+```bash
+git clone https://github.com/kauaweber/projeto-documentado-e-commerce.git
+cd projeto-documentado-e-commerce
